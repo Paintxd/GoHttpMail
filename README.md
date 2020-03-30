@@ -1,2 +1,2 @@
 # Paintxd
-Go HttpMail
+Mail service using gomail.v2
